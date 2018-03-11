@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Spotify Preview Player</string>
+
+    <string name="noResultsSearchTracks">Sorry, no results found.</string>
+    <string name="search_title">Search Spotify</string>
+    <string name="action_about">About</string>
+    <string name="version">Version:</string>
+    <string name="aboutInfo">SPOTIFY SONG PREVIEW PLAYER</string>
+    <string name="aboutInfoDetails">By Katappz - Making appz for fun</string>
+    <string name="about">About</string>
+    <string name="missingCredentials">"To use this sample you must define the SPOTIFY_CLIENT_ID and SPOTIFY_SECRET in the Consts.java file. Please see readme.md on how to get these credentials."</string>
+</resources>
